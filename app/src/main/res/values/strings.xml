@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BatteryAlert</string>
+    <string formatted="false" name="text_alert_value">A notification will be sent once your battery goes down to %1$d percent.</string>
+
+    <string name="title_low_battery">Low Battery!</string>
+    <string name="msg_low_battery">Your battery has gone below %1$d percent. It is recommended that you find a charger and plug your phone in as soon as possible.</string>
+</resources>
